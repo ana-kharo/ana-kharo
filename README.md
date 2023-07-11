@@ -8,7 +8,6 @@ Hi, everyone! I'm Ana Kharo :D
 <div>
   <a href="https://www.linkedin.com/in/anakharo/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-kharo&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-kharo&layout=compact"/>
  </div>
 
  ##
