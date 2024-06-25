@@ -1,8 +1,8 @@
-Hi, everyone! I'm Ana Kharo :D
+Hi, everyone! I'm Ana Kharo :)
 
 - 🏳️‍🌈 I'm a black lesbian woman.
-- 💬 I'm a diversity and inclusion expert who gives talks on the subject.
-- ✅ Currently studying Backend and UI.
+- 💬 I'm a diversity and inclusion expert.
+- ✅ Currently studying Backend, UX and UI.
 - 😄 Pronouns: She/Her.
 
 <div>
